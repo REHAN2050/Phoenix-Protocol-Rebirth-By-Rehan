@@ -46,7 +46,29 @@ then this protocol will help the survivors **rebuild a better, wiser, more unite
 
 I, **Md Rehan Ansari**, declare:  
 > “Phoenix Protocol is my original intellectual creation, and may not be copied, sold, republished, or modified without my written permission. Any attempt to do so without consent is considered a violation of my creative rights.”
+# 🌅 Phoenix Protocol – Rebirth of Humanity
 
+[![](https://img.shields.io/badge/Founder-Md_Rehan_Ansari-blue)](mailto:rehanofficial2050@gmail.com)
+[![](https://img.shields.io/badge/Origin-Jharkhand,_India-green)]
+[![](https://img.shields.io/badge/Status-Visionary_Project-orange)]
+[![](https://img.shields.io/badge/License-Custom_Legacy-red)]
+
+---
+
+📖 **Vision:** A future blueprint to revive human civilization post-collapse, focusing on sustainability, ethical rebuilding, and global survival.
+
+🧱 **Built on 5 Pillars:**
+- Survival Systems
+- Knowledge Archives
+- Rebuilding Governance
+- Behavioral Philosophy
+- Technology Recovery
+
+📜 [📥 View Full Protocol Document (PDF)](Phoenix_Protocol_Vision_Rehan.pdf)
+
+🧠 “The Phoenix will rise from the ashes of the world.” – *Rehan*
+
+---
 ---
 
 ## 🔖 Tags
