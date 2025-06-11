@@ -47,7 +47,7 @@ The **Phoenix Protocol** is a survival and rebirth blueprint designed to **guide
 This is a **protected visionary work** by **Md Rehan Ansari**.  
 - ❌ Commercial use is forbidden without consent  
 - ✅ Collaboration is welcome with permission and credit  
-- 📘 [Phoenix_Protocol_Vision_Rehan.pdf](Phoenix_Protocol_Vision_Rehan.pdf) — Full vision doc
+- 📘 [Phoenix_Protocol_Vision_Rehan.pdf](https://drive.google.com/file/d/1686MVrBpwysWtsmtLkKREAkiojNxzQ2U/view?usp=drivesdk) — Full vision doc
 
 ---
 
