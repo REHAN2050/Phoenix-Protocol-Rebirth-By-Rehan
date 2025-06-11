@@ -64,7 +64,7 @@ I, **Md Rehan Ansari**, declare:
 - Behavioral Philosophy
 - Technology Recovery
 
-📜 [📥 View Full Protocol Document (PDF)](Phoenix_Protocol_Vision_Rehan.pdf)
+📜 [📥 View Full Protocol Document (PDF)](https://drive.google.com/file/d/1686MVrBpwysWtsmtLkKREAkiojNxzQ2U/view?usp=drivesdk)
 
 🧠 “The Phoenix will rise from the ashes of the world.” – *Rehan*
 
